@@ -13,3 +13,5 @@ You will additionally need -
 - White paint or paper to cover the pipe
 - Glow in the dark paint
 - ESP32C3 Super Mini dev board
+
+  I've left a space for a 74AHCT125 level converter to boost the 3.3V logic of the ESP32 to 5V for the WS2811, but on my board at least, it works fine without, you can just jumper over the in and out pins on the level converter. 

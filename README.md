@@ -6,6 +6,8 @@ Refer to the KiCad files for the PCB details and BOM for details of compononents
 are basically WS2811 SOT8 led drivers, 0805 SMD UV leds and a a small number of resistors and
 caps, also 0805 SMD.
 
+There are four 3D printed parts, which are small enough to print on most printers.
+
 You will additionally need -
 
 - Stepper Motor 28BYJ-48 with ULN2003 Driver Board
